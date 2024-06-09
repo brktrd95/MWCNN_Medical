@@ -1,0 +1,698 @@
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:   1/283: 2.1 (2.1) Hz objective: 0.092
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:   2/283: 3.1 (6.0) Hz objective: 0.079
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:   3/283: 6.2 (6.4) Hz objective: 0.078
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:   4/283: 5.4 (3.9) Hz objective: 0.072
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:   5/283: 5.2 (4.6) Hz objective: 0.070
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:   6/283: 5.4 (6.4) Hz objective: 0.068
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:   7/283: 5.5 (6.4) Hz objective: 0.065
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:   8/283: 5.6 (6.5) Hz objective: 0.063
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:   9/283: 5.7 (6.4) Hz objective: 0.058
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  10/283: 5.8 (6.4) Hz objective: 0.056
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  11/283: 5.8 (6.4) Hz objective: 0.054
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  12/283: 5.8 (6.4) Hz objective: 0.051
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  13/283: 5.9 (6.4) Hz objective: 0.049
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  14/283: 5.9 (6.4) Hz objective: 0.046
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  15/283: 6.0 (6.4) Hz objective: 0.044
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  16/283: 6.0 (6.4) Hz objective: 0.042
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  17/283: 6.0 (6.5) Hz objective: 0.039
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  18/283: 6.0 (6.4) Hz objective: 0.039
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  19/283: 6.0 (6.4) Hz objective: 0.038
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  20/283: 6.1 (6.4) Hz objective: 0.036
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  21/283: 6.1 (6.4) Hz objective: 0.035
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  22/283: 6.1 (6.3) Hz objective: 0.034
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  23/283: 6.1 (6.4) Hz objective: 0.033
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  24/283: 6.1 (6.3) Hz objective: 0.032
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  25/283: 6.1 (6.4) Hz objective: 0.031
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  26/283: 6.1 (6.4) Hz objective: 0.030
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  27/283: 6.1 (6.3) Hz objective: 0.029
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  28/283: 6.1 (6.3) Hz objective: 0.029
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  29/283: 6.1 (6.4) Hz objective: 0.028
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  30/283: 6.2 (6.4) Hz objective: 0.027
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  31/283: 6.2 (6.3) Hz objective: 0.027
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  32/283: 6.2 (6.4) Hz objective: 0.026
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  33/283: 6.2 (6.3) Hz objective: 0.026
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  34/283: 6.2 (6.4) Hz objective: 0.025
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  35/283: 6.2 (6.3) Hz objective: 0.025
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  36/283: 6.2 (6.3) Hz objective: 0.024
+MWCNN_deblurring_DBT6 train: epoch 01 / 45:  37/283:<a href="matlab: opentoline('C:\Program Files\MATLAB\R2017a\toolbox\matlab\imagesci\private\readpngutil.m',20,1)">20  </a>if oneRow3d
+uiopen('C:\Users\Burak\Desktop\MWCNN\Training_Code\utils\cnn_train_.m',1)
+uiopen('C:\Users\Burak\Desktop\MWCNN\Training_Code\utils\cnn_train_.m',1)
+if system_dependent('IsDebugMode')==1, dbquit; end
+cnn_train_
+{Not enough input arguments.
+
+Error in <a href="matlab:matlab.internal.language.introspective.errorDocCallback('cnn_train_', 'C:\Users\Burak\Desktop\MWCNN\Training_Code\utils\cnn_train_.m', 64)" style="font-weight:bold">cnn_train_</a> (<a href="matlab: opentoline('C:\Users\Burak\Desktop\MWCNN\Training_Code\utils\cnn_train_.m',64,0)">line 64</a>)
+if isempty(opts.train), opts.train = find(imdb.images.set==1) ; end
+} 
+Run_Demo
+-----------------------------------------------------------
+--------------------Training Number 484---------------------
+-----------------------------------------------------------
+cnn_train_: resetting GPU
+
+ans = 
+
+  <a href="matlab:helpPopup parallel.gpu.CUDADevice" style="font-weight:bold">CUDADevice</a> with properties:
+
+                      Name: 'NVIDIA GeForce GTX 1650 Ti'
+                     Index: 1
+         ComputeCapability: '7.5'
+            SupportsDouble: 1
+             DriverVersion: 12
+            ToolkitVersion: 8
+        MaxThreadsPerBlock: 1024
+          MaxShmemPerBlock: 49152
+        MaxThreadBlockSize: [1024 1024 64]
+               MaxGridSize: [2.1475e+09 65535 65535]
+                 SIMDWidth: 32
+               TotalMemory: 4.2946e+09
+           AvailableMemory: 3.3321e+09
+       MultiprocessorCount: 16
+              ClockRateKHz: 1485000
+               ComputeMode: 'Default'
+      GPUOverlapsTransfers: 1
+    KernelExecutionTimeout: 1
+          CanMapHostMemory: 1
+           DeviceSupported: 1
+            DeviceSelected: 1
+
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:   1/ 31: 4.6 (4.6) Hz objective: 0.092
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:   2/ 31: 5.3 (6.3) Hz objective: 0.093
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:   3/ 31: 6.3 (6.4) Hz objective: 0.078
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:   4/ 31: 6.4 (6.4) Hz objective: 0.078
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:   5/ 31: 6.4 (6.4) Hz objective: 0.073
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:   6/ 31: 6.4 (6.5) Hz objective: 0.069
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:   7/ 31: 6.4 (6.4) Hz objective: 0.063
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:   8/ 31: 6.4 (6.5) Hz objective: 0.059
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:   9/ 31: 6.4 (6.4) Hz objective: 0.057
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:  10/ 31: 6.4 (6.5) Hz objective: 0.054
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:  11/ 31: 6.4 (6.4) Hz objective: 0.051
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:  12/ 31: 6.4 (6.4) Hz objective: 0.048
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:  13/ 31: 6.4 (6.4) Hz objective: 0.046
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:  14/ 31: 6.4 (6.4) Hz objective: 0.043
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:  15/ 31: 6.4 (6.4) Hz objective: 0.041
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:  16/ 31: 6.4 (6.4) Hz objective: 0.039
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:  17/ 31: 6.4 (6.4) Hz objective: 0.038
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:  18/ 31: 6.4 (6.4) Hz objective: 0.036
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:  19/ 31: 6.4 (6.5) Hz objective: 0.034
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:  20/ 31: 6.4 (6.4) Hz objective: 0.033
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:  21/ 31: 6.4 (6.4) Hz objective: 0.031
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:  22/ 31: 6.4 (6.3) Hz objective: 0.031
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:  23/ 31: 6.4 (6.4) Hz objective: 0.030
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:  24/ 31: 6.4 (6.4) Hz objective: 0.029
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:  25/ 31: 6.4 (6.4) Hz objective: 0.028
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:  26/ 31: 6.4 (6.4) Hz objective: 0.027
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:  27/ 31: 6.4 (6.5) Hz objective: 0.027
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:  28/ 31: 6.4 (6.4) Hz objective: 0.026
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:  29/ 31: 6.4 (6.5) Hz objective: 0.025
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:  30/ 31: 6.4 (6.3) Hz objective: 0.025
+MWCNN_deblurring_DBT6 train: epoch 01 / 20:  31/ 31: 6.4 (4.9) Hz objective: 0.025
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:   1/ 31: 5.9 (5.9) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:   2/ 31: 6.3 (6.7) Hz objective: 0.011
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:   3/ 31: 6.7 (6.7) Hz objective: 0.011
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:   4/ 31: 6.7 (6.7) Hz objective: 0.011
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:   5/ 31: 6.7 (6.6) Hz objective: 0.010
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:   6/ 31: 6.7 (6.7) Hz objective: 0.009
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:   7/ 31: 6.7 (6.7) Hz objective: 0.010
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:   8/ 31: 6.7 (6.6) Hz objective: 0.009
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:   9/ 31: 6.7 (6.7) Hz objective: 0.009
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:  10/ 31: 6.7 (6.6) Hz objective: 0.009
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:  11/ 31: 6.7 (6.7) Hz objective: 0.009
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:  12/ 31: 6.7 (6.7) Hz objective: 0.009
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:  13/ 31: 6.7 (6.6) Hz objective: 0.009
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:  14/ 31: 6.7 (6.7) Hz objective: 0.009
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:  15/ 31: 6.7 (6.6) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:  16/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:  17/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:  18/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:  19/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:  20/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:  21/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:  22/ 31: 6.7 (6.6) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:  23/ 31: 6.7 (6.6) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:  24/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:  25/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:  26/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:  27/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:  28/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:  29/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:  30/ 31: 6.7 (6.6) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 02 / 20:  31/ 31: 6.6 (5.1) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:   1/ 31: 6.1 (6.1) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:   2/ 31: 6.4 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:   3/ 31: 6.7 (6.6) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:   4/ 31: 6.7 (6.7) Hz objective: 0.009
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:   5/ 31: 6.7 (6.7) Hz objective: 0.009
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:   6/ 31: 6.7 (6.7) Hz objective: 0.009
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:   7/ 31: 6.7 (6.6) Hz objective: 0.009
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:   8/ 31: 6.7 (6.7) Hz objective: 0.009
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:   9/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:  10/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:  11/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:  12/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:  13/ 31: 6.7 (6.6) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:  14/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:  15/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:  16/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:  17/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:  18/ 31: 6.7 (6.7) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:  19/ 31: 6.7 (6.7) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:  20/ 31: 6.7 (6.7) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:  21/ 31: 6.7 (6.7) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:  22/ 31: 6.7 (6.7) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:  23/ 31: 6.7 (6.7) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:  24/ 31: 6.7 (6.7) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:  25/ 31: 6.7 (6.6) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:  26/ 31: 6.7 (6.6) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:  27/ 31: 6.7 (6.7) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:  28/ 31: 6.7 (6.7) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:  29/ 31: 6.7 (6.7) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:  30/ 31: 6.7 (6.7) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 03 / 20:  31/ 31: 6.7 (5.2) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:   1/ 31: 6.2 (6.2) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:   2/ 31: 6.4 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:   3/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:   4/ 31: 6.7 (6.7) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:   5/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:   6/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:   7/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:   8/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:   9/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:  10/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:  11/ 31: 6.6 (6.0) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:  12/ 31: 6.2 (3.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:  13/ 31: 6.2 (5.9) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:  14/ 31: 6.2 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:  15/ 31: 6.2 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:  16/ 31: 6.2 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:  17/ 31: 6.3 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:  18/ 31: 6.3 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:  19/ 31: 6.3 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:  20/ 31: 6.3 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:  21/ 31: 6.3 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:  22/ 31: 6.4 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:  23/ 31: 6.4 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:  24/ 31: 6.4 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:  25/ 31: 6.4 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:  26/ 31: 6.4 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:  27/ 31: 6.4 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:  28/ 31: 6.4 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:  29/ 31: 6.4 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:  30/ 31: 6.4 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 04 / 20:  31/ 31: 6.4 (5.2) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:   1/ 31: 6.3 (6.3) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:   2/ 31: 6.5 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:   3/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:   4/ 31: 6.7 (6.7) Hz objective: 0.009
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:   5/ 31: 6.7 (6.6) Hz objective: 0.009
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:   6/ 31: 6.7 (6.6) Hz objective: 0.009
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:   7/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:   8/ 31: 6.7 (6.6) Hz objective: 0.009
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:   9/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:  10/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:  11/ 31: 6.7 (6.7) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:  12/ 31: 6.7 (6.7) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:  13/ 31: 6.7 (6.7) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:  14/ 31: 6.7 (6.7) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:  15/ 31: 6.7 (6.6) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:  16/ 31: 6.7 (6.6) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:  17/ 31: 6.7 (6.7) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:  18/ 31: 6.7 (6.6) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:  19/ 31: 6.7 (6.6) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:  20/ 31: 6.7 (6.6) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:  21/ 31: 6.7 (6.6) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:  22/ 31: 6.7 (6.6) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:  23/ 31: 6.7 (6.6) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:  24/ 31: 6.7 (6.6) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:  25/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:  26/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:  27/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:  28/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:  29/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:  30/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 05 / 20:  31/ 31: 6.6 (5.2) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:   1/ 31: 6.2 (6.2) Hz objective: 0.003
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:   2/ 31: 6.4 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:   3/ 31: 6.6 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:   4/ 31: 6.6 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:   5/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:   6/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:   7/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:   8/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:   9/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:  10/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:  11/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:  12/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:  13/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:  14/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:  15/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:  16/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:  17/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:  18/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:  19/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:  20/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:  21/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:  22/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:  23/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:  24/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:  25/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:  26/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:  27/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:  28/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:  29/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:  30/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 06 / 20:  31/ 31: 6.6 (5.0) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:   1/ 31: 6.1 (6.1) Hz objective: 0.003
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:   2/ 31: 6.4 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:   3/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:   4/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:   5/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:   6/ 31: 6.7 (6.5) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:   7/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:   8/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:   9/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:  10/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:  11/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:  12/ 31: 6.6 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:  13/ 31: 6.6 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:  14/ 31: 6.6 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:  15/ 31: 6.6 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:  16/ 31: 6.6 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:  17/ 31: 6.6 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:  18/ 31: 6.6 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:  19/ 31: 6.6 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:  20/ 31: 6.6 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:  21/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:  22/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:  23/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:  24/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:  25/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:  26/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:  27/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:  28/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:  29/ 31: 6.6 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:  30/ 31: 6.6 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 07 / 20:  31/ 31: 6.6 (5.1) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:   1/ 31: 6.2 (6.2) Hz objective: 0.009
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:   2/ 31: 6.4 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:   3/ 31: 6.7 (6.7) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:   4/ 31: 6.6 (6.6) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:   5/ 31: 6.6 (6.6) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:   6/ 31: 6.6 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:   7/ 31: 6.6 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:   8/ 31: 6.6 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:   9/ 31: 6.6 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:  10/ 31: 6.6 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:  11/ 31: 6.6 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:  12/ 31: 6.6 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:  13/ 31: 6.6 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:  14/ 31: 6.6 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:  15/ 31: 6.6 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:  16/ 31: 6.6 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:  17/ 31: 6.6 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:  18/ 31: 6.6 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:  19/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:  20/ 31: 6.6 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:  21/ 31: 6.6 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:  22/ 31: 6.6 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:  23/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:  24/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:  25/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:  26/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:  27/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:  28/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:  29/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:  30/ 31: 6.6 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 08 / 20:  31/ 31: 6.6 (5.1) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:   1/ 31: 6.3 (6.3) Hz objective: 0.003
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:   2/ 31: 6.5 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:   3/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:   4/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:   5/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:   6/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:   7/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:   8/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:   9/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:  10/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:  11/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:  12/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:  13/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:  14/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:  15/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:  16/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:  17/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:  18/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:  19/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:  20/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:  21/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:  22/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:  23/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:  24/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:  25/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:  26/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:  27/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:  28/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:  29/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:  30/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 09 / 20:  31/ 31: 6.6 (5.0) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:   1/ 31: 6.3 (6.3) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:   2/ 31: 6.5 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:   3/ 31: 6.6 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:   4/ 31: 6.6 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:   5/ 31: 6.6 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:   6/ 31: 6.7 (6.7) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:   7/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:   8/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:   9/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:  10/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:  11/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:  12/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:  13/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:  14/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:  15/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:  16/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:  17/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:  18/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:  19/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:  20/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:  21/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:  22/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:  23/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:  24/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:  25/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:  26/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:  27/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:  28/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:  29/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:  30/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 10 / 20:  31/ 31: 6.6 (5.2) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:   1/ 31: 6.3 (6.3) Hz objective: 0.003
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:   2/ 31: 6.5 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:   3/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:   4/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:   5/ 31: 6.7 (6.6) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:   6/ 31: 6.7 (6.6) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:   7/ 31: 6.7 (6.6) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:   8/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:   9/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:  10/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:  11/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:  12/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:  13/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:  14/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:  15/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:  16/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:  17/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:  18/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:  19/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:  20/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:  21/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:  22/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:  23/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:  24/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:  25/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:  26/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:  27/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:  28/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:  29/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:  30/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 11 / 20:  31/ 31: 6.6 (5.1) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:   1/ 31: 6.1 (6.1) Hz objective: 0.003
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:   2/ 31: 6.4 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:   3/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:   4/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:   5/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:   6/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:   7/ 31: 6.7 (6.7) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:   8/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:   9/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:  10/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:  11/ 31: 6.4 (4.5) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:  12/ 31: 6.1 (4.2) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:  13/ 31: 6.2 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:  14/ 31: 6.2 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:  15/ 31: 6.2 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:  16/ 31: 6.3 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:  17/ 31: 6.3 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:  18/ 31: 6.3 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:  19/ 31: 6.3 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:  20/ 31: 6.3 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:  21/ 31: 6.4 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:  22/ 31: 6.4 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:  23/ 31: 6.4 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:  24/ 31: 6.4 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:  25/ 31: 6.4 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:  26/ 31: 6.4 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:  27/ 31: 6.4 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:  28/ 31: 6.4 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:  29/ 31: 6.4 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:  30/ 31: 6.4 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 12 / 20:  31/ 31: 6.4 (5.2) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:   1/ 31: 6.3 (6.3) Hz objective: 0.003
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:   2/ 31: 6.5 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:   3/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:   4/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:   5/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:   6/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:   7/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:   8/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:   9/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:  10/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:  11/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:  12/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:  13/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:  14/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:  15/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:  16/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:  17/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:  18/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:  19/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:  20/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:  21/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:  22/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:  23/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:  24/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:  25/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:  26/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:  27/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:  28/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:  29/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:  30/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 13 / 20:  31/ 31: 6.7 (5.1) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:   1/ 31: 6.2 (6.2) Hz objective: 0.003
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:   2/ 31: 6.4 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:   3/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:   4/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:   5/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:   6/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:   7/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:   8/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:   9/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:  10/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:  11/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:  12/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:  13/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:  14/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:  15/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:  16/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:  17/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:  18/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:  19/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:  20/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:  21/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:  22/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:  23/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:  24/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:  25/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:  26/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:  27/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:  28/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:  29/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:  30/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 14 / 20:  31/ 31: 6.7 (5.1) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:   1/ 31: 6.2 (6.2) Hz objective: 0.008
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:   2/ 31: 6.5 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:   3/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:   4/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:   5/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:   6/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:   7/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:   8/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:   9/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:  10/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:  11/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:  12/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:  13/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:  14/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:  15/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:  16/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:  17/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:  18/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:  19/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:  20/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:  21/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:  22/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:  23/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:  24/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:  25/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:  26/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:  27/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:  28/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:  29/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:  30/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 15 / 20:  31/ 31: 6.7 (5.1) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:   1/ 31: 6.3 (6.3) Hz objective: 0.003
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:   2/ 31: 6.5 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:   3/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:   4/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:   5/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:   6/ 31: 6.7 (6.7) Hz objective: 0.003
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:   7/ 31: 6.7 (6.7) Hz objective: 0.003
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:   8/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:   9/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:  10/ 31: 6.7 (6.6) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:  11/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:  12/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:  13/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:  14/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:  15/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:  16/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:  17/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:  18/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:  19/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:  20/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:  21/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:  22/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:  23/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:  24/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:  25/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:  26/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:  27/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:  28/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:  29/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:  30/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 16 / 20:  31/ 31: 6.7 (5.2) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:   1/ 31: 6.3 (6.3) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:   2/ 31: 6.5 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:   3/ 31: 6.7 (6.7) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:   4/ 31: 6.7 (6.6) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:   5/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:   6/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:   7/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:   8/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:   9/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:  10/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:  11/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:  12/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:  13/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:  14/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:  15/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:  16/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:  17/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:  18/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:  19/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:  20/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:  21/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:  22/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:  23/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:  24/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:  25/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:  26/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:  27/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:  28/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:  29/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:  30/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 17 / 20:  31/ 31: 6.7 (5.1) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:   1/ 31: 6.3 (6.3) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:   2/ 31: 6.5 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:   3/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:   4/ 31: 6.7 (6.7) Hz objective: 0.003
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:   5/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:   6/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:   7/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:   8/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:   9/ 31: 6.7 (6.6) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:  10/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:  11/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:  12/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:  13/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:  14/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:  15/ 31: 6.7 (6.6) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:  16/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:  17/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:  18/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:  19/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:  20/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:  21/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:  22/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:  23/ 31: 6.7 (6.6) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:  24/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:  25/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:  26/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:  27/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:  28/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:  29/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:  30/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 18 / 20:  31/ 31: 6.7 (5.1) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:   1/ 31: 6.3 (6.3) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:   2/ 31: 6.5 (6.6) Hz objective: 0.003
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:   3/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:   4/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:   5/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:   6/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:   7/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:   8/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:   9/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:  10/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:  11/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:  12/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:  13/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:  14/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:  15/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:  16/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:  17/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:  18/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:  19/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:  20/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:  21/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:  22/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:  23/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:  24/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:  25/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:  26/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:  27/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:  28/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:  29/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:  30/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 19 / 20:  31/ 31: 6.7 (5.2) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:   1/ 31: 6.4 (6.4) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:   2/ 31: 6.5 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:   3/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:   4/ 31: 6.7 (6.7) Hz objective: 0.007
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:   5/ 31: 6.7 (6.7) Hz objective: 0.006
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:   6/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:   7/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:   8/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:   9/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:  10/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:  11/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:  12/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:  13/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:  14/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:  15/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:  16/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:  17/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:  18/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:  19/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:  20/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:  21/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:  22/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:  23/ 31: 6.7 (6.6) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:  24/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:  25/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:  26/ 31: 6.7 (6.7) Hz objective: 0.005
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:  27/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:  28/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:  29/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:  30/ 31: 6.7 (6.7) Hz objective: 0.004
+MWCNN_deblurring_DBT6 train: epoch 20 / 20:  31/ 31: 6.7 (5.1) Hz objective: 0.004
